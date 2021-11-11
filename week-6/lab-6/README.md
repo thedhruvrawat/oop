@@ -1,4 +1,4 @@
-# Lab 4: Dynamic Binding, Arrays and Strings
+# Lab 6: Hash Set, Array List, Linked List, Stack
 
 ## Folder Structure
 

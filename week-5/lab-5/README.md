@@ -1,4 +1,4 @@
-# Lab 4: Dynamic Binding, Arrays and Strings
+# Lab 5: Interfaces, Nested Interfaces, Nested Classes, Generics
 
 ## Folder Structure
 
