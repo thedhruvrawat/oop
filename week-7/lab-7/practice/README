@@ -1,0 +1,8 @@
+# Lab 7: Practice
+
+| S. No. | Question | Code |
+| ------ | -------- | ---- |
+| 1 | Comparator | [code](src/Comp1.java) |
+| 2 | Try-catch | [code](src/TryCatch.java) |
+| 3 | throws | [code](src/Throw.java) |
+| 4 | finally | [code](src/Finally.java) |

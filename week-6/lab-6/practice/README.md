@@ -1,4 +1,4 @@
-# Lab 5: Practice
+# Lab 6: Practice
 
 | S. No. | Question | Code |
 | ------ | -------- | ---- |
