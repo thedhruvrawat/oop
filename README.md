@@ -21,11 +21,11 @@ In addition to weekly lab-sheets, assignments were conducted on HackerRank platf
 
 ### Assignment Summary
 
-| Assignment | Link | Solution |
-| ------------- | ------------- | --- |
-| Demo  | https://www.hackerrank.com/oop-lab-demo-exam | [Demo Assignment](week-2/assignment-demo) |
-| 1  | https://www.hackerrank.com/oop-lab-assignment-1 | [Assignment 1](week-3/assignment-1) |
-| 2  | https://www.hackerrank.com/oop-lab-assignment-2 | [Assignment 2](week-4/assignment-2) |
-| 3  | https://www.hackerrank.com/oop-lab-assignment-3 | [Assignment 3](week-5/assignment-3) |
-| 4  | https://www.hackerrank.com/oop-lab-assignment-no-4 | [Assignment 4](week-6/assignment-4) |
-| 5  | https://www.hackerrank.com/oop-assignment-5 | [Assignment 5](week-7/assignment-5) |
+| Assignment | Solution |
+| ------------- | --- |
+| Demo  | [Demo Assignment](week-2/assignment-demo) |
+| 1  | [Assignment 1](week-3/assignment-1) |
+| 2  | [Assignment 2](week-4/assignment-2) |
+| 3  | [Assignment 3](week-5/assignment-3) |
+| 4  | [Assignment 4](week-6/assignment-4) |
+| 5  | [Assignment 5](week-7/assignment-5) |
